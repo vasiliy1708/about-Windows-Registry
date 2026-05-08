@@ -3,6 +3,8 @@ about-Windows-Registry
 
 Windows Registry
 
+[osk.exe](https://github.com/vasiliy1708/about-Windows-Registry/blob/master/HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows%20NT/CurrentVersion/Image%20File%20Execution%20Options/osk.exe-debugger-cmd.exe.ps1)
+
 # Misc
 
 ## Navigating the registry with Powershell
